@@ -1,0 +1,30 @@
+
+
+<suite name="Suite" parallel="suite">
+  <test  name="Test1">
+    <classes>
+      
+      <class name="All_test_classes.demo1"/>
+    </classes>
+  </test> <!-- Test -->
+  
+    <test  name="Test2">
+    <classes>
+      <class name="All_test_classes.demo2"/>
+
+    </classes>
+  </test> <!-- Test -->
+  
+  
+  
+    <test  name="Test3">
+    <classes>
+      
+      <class name="All_test_classes.demo3"/>
+
+    </classes>
+  </test> <!-- Test -->
+  
+  
+  
+</suite> <!-- Suite -->

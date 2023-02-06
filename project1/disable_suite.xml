@@ -1,0 +1,15 @@
+
+<suite name="Suite">
+  <test  name="Test">
+  <groups>
+  <run>
+  <include name="login"/>
+  </run>
+  </groups>
+    <classes>
+      <class name="All_test_classes.demo1">
+      
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
